@@ -24,3 +24,4 @@ print(f"Count: {n}")
 print(f"Sum: {s}")
 print(f"Minimum: {m}")
 print(f"Mean: {a}")
+# it looks like I learned how to use git today
