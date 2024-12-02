@@ -8,7 +8,7 @@ print("Enter numbers in the sequence (end with -1):")
 while True:
     x = int(input("Enter number: "))
     if x == -1:
-        break
+        break #break is used to exit the loop immeditaly so to ensure that -1 does not enter the loop
     n += 1
     s += x
     if x < m:
