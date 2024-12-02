@@ -20,7 +20,7 @@ if n == 0:
 else:
     a = s / n
 
-print(f"Count (n): {n}")
-print(f"Sum (s): {s}")
-print(f"Minimum (m): {m}")
-print(f"Mean (a): {a}")
+print(f"Count: {n}")
+print(f"Sum: {s}")
+print(f"Minimum: {m}")
+print(f"Mean: {a}")
