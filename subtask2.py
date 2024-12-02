@@ -3,7 +3,7 @@ s = 0
 a = -1
 m=11111111111111111111111111111
 
-print("Enter numbers in the sequence (terminate with -1):")
+print("Enter numbers in the sequence (end with -1):")
 
 while True:
     x = int(input("Enter number: "))
